@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hyperlink TextView Tutorial</string>
+    <string name="hyperlink1"><a href="https://forms.gle/hmxTrWBur9QCb7427">General Feedback</a></string>
+    <string name="hyperlink"><a href="https://forms.gle/8zNKkDz87xtJTgDs9">Mid-Day Meals Feedback</a></string>
+
+    <string name="scholarshiplink"><a href = "https://www.buddy4study.com/scholarships/school">Scholarships Available</a></string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".ActivityOne"
+    android:background="@drawable/newww">
+
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_width="310dp"
+        android:layout_height="358dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_baseline_image_24" />
+
+    <Button
+        android:id="@+id/capture_image_btn"
+        style="@style/Base.Widget.AppCompat.Button.Colored"
+        android:layout_width="427dp"
+        android:layout_height="78dp"
+        android:text="Capture Image"
+        android:textSize="30dp"
+        android:backgroundTint="@color/purple_500"/>
+
+
+</LinearLayout>

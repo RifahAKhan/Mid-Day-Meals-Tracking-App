@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749771276696",
+    "project_id": "mid-day-meals-tracker-app",
+    "storage_bucket": "mid-day-meals-tracker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749771276696:android:6984d15551d95a3004ebed",
+        "android_client_info": {
+          "package_name": "com.example.hackerrupt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749771276696-84i4ffbj2bc5ihh91f8vbfronej0q008.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDtBrxl4WHPL-lmsMxg7-2CSpHP_7tj_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749771276696-84i4ffbj2bc5ihh91f8vbfronej0q008.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
